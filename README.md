@@ -8,3 +8,21 @@
 smiledev1230/smiledev1230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+### 📈 GitHub Stats
+
+
+<a href="https://github.com/smiledev1230?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smiledev1230&show_icons=true&count_private=true&include_all_commits=true&line_height=21&show_icons=true&theme=vue&hide_border=true" alt="smiledev1230's github stats" />
+</a>
+<a href="https://github.com/smiledev1230?tab=repositories">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiledev1230&show_icons=true&layout=compact&theme=vue&hide_border=true&langs_count=8" />
+</a>
+
+### ♡ Top Sponsors
+
+- [Become a sponsor](https://github.com/sponsors/smiledev1230)
+
+<img src="https://komarev.com/ghpvc/?username=smiledev1230&color=blue&style=flat-square&label=visitors" align="right" />
