@@ -10,16 +10,27 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### 📈 GitHub Stats
 
+### 🛠 &nbsp;Tech Stack
 
-<a href="https://github.com/smiledev1230?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smiledev1230&show_icons=true&count_private=true&include_all_commits=true&line_height=21&show_icons=true&theme=vue&hide_border=true" alt="smiledev1230's github stats" />
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/joseprest">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joseprest&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joseprest&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<a href="https://github.com/smiledev1230?tab=repositories">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiledev1230&show_icons=true&layout=compact&theme=vue&hide_border=true&langs_count=8" />
-</a>
+</p>
 
 ### ♡ Top Sponsors
 
